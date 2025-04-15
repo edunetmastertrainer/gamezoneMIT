@@ -15,7 +15,7 @@ def set_background(image_url):
             background-position: center;
             background-repeat: no-repeat;}}</style>""",unsafe_allow_html=True)
 
-image_url =""
+image_url ="https://img.freepik.com/free-vector/gradient-black-background-with-wavy-lines_23-2149151738.jpg"
 set_background(image_url)
    
 def password_generator():
